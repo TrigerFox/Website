@@ -1,0 +1,25 @@
+body {
+    background: rgb(73, 73, 73);
+    font-family: arial;
+}
+
+#linker {
+  margin: 0;
+}
+
+.yt
+{
+    margin: 0;
+    color:white;
+    background: red;
+}
+
+.sec_link {
+    margin: 1;
+    background: rgb(15, 199, 184);
+    color: rgb(0, 0, 0);
+    padding: 0px 0px 0px 0px;
+}
+
+
+
